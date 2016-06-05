@@ -1,0 +1,52 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica;
+}
+
+a {
+    color: #00B7FF;
+}
+
+.butEx {
+    color: black;
+    box-shadow: 1px 1px 1px 1px #000;
+}
+
+.butEx:hover {
+    box-shadow: 1px 1px 1px 1px #000;
+}
+
+#exit {
+    background-color: #d9d9d9;
+    color: black;
+}
+
+#button {
+    margin: 0 auto;
+    display:block;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 0%;
+}
+#divText{
+  display:block;
+}
+#parseButton {
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 0%;
+    position: relative;
+    top: 45%;
+    left: 45%;
+    width: 200px;
+    height: 50px;
+}
+
+#textArea,
+#exit {
+    width: 50%;
+    margin: 0 auto;
+    margin-left: 15%;
+    height: 300px;
+    width: 70%;
+}
